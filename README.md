@@ -108,6 +108,55 @@ Hazard Ratio of 13.8 with a p-value of 0.01 (Img. 5).
 
 ![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/9527516a-dba6-4adf-86df-872feda10620)
 
+Afterwards, CPHRA was performed on the results of Progeny Analysis, highlighting two pathways -
+“Hypoxia” and “p53”, activity of which might be related to the decreased overall survival of patients with 
+HCC as the Hazard ratio of the “Hypoxia” pathway is 1.3 with a p-value lower than 0.05 and a Hazard ratio of 
+“p53” pathway is 1.23 with a p-value also lower than 0.05 (Img. 6). As the genes HIF1A, HIF3A, PDGFB, IGF1, 
+INS, NRG1, SMAD3, SMAD4, ETS1 play a major role in “Hypoxia” pathway15 and genes MDM4, MDM2, 
+STEAP3, PTEN, DDB2, TP53, CDKN1A, SFN, RPRM, GADD45G, GTSE1, ZNF385A, FAS, LRDD, BAX, SIVA1, EI24, 
+SHISA5, AIFM2, IGFBP3, SERPINE1 play a major role in “p53” pathway16 connection between their 
+expression, methylation and mutations with patient survival were also checked. 
+
+Results of CPHRA for those genes based on mRNA data are presented in image 7, showing no association 
+with HCC as for all genes, either Hazard Ratio is equal to 1 or the p-value is greater than 0.05. 
+Results of CPHRA for progeny genes based on methylation data (Img. 8) were more promising. In the 
+“Hypoxia” pathway, INS-IGF2.2 genes look to be associated with survival, as their Hazard Ratio was 0.21 
+with a p-value of 0.004. Further inspection of those genes using survival plots confirmed the association, as 
+its p-value was less than 0.05 (Img. 9a). In the “p53” pathway, peculiar results were obtained for ACTA2;FAS 
+genes, as their Hazard ratio was 3.67 with a p-value of 0.015. However, its p-value of 0.21 at the survival 
+plot also does not allow us to confirm its association with HCC disease (Img. 9a). Moreover, analysis of INS
+and IGF2 genes did not show an association with patient survival based on mRNA data.
+Similar to methylation data, interesting results were obtained by performing CPHRA based on mutation 
+data for the “Hypoxia” pathway, as there was a Missense Mutation of the HIF1A gene with a Hazard Ratio of 11.9 
+(p-value<0.001), and for the “p53” pathway, as there four mutations with p-values less than 0.05 were 
+discovered: PTEN (splice donor variant), TP53 (Inframe Deletion), TP53 (Stop Gained), EI24 (Missense 
+Variant) (Img. 10). As can be seen in Image 11, showing survival plots of those genes, the presence of all those 
+mutations can potentially be associated with HCC, as their p-values are less than 0.05.
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/f623c3c8-770d-499e-9a9c-a950ab2ea232)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/f5b45b94-b98b-4531-9cf1-6128e1961249)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/9b8a8f41-ce19-4c0b-ab1e-90ba87641662)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/b4fe626a-1349-4c0a-b4b8-a6a8898c784c)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/f962a3a3-af89-406f-94a3-dd79fb0fe0fc)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/fbf91529-0fc6-4e6d-b03d-ee8fd5efe482)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/08716ef0-e522-46d8-9ac2-81f86f0a0733)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
