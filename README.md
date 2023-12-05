@@ -364,8 +364,7 @@ https://cran.r-project.org/web/packages/rstudioapi/index.html
 Available from: https://cran.r-project.org/web/packages/stringr/index.html
 9. dplyr: A Grammar of Data Manipulation [Internet] [cited 2023 Apr 25]. Available from: 
 https://cran.r-project.org/web/packages/dplyr/index.html
-10. progeny: Pathway RespOnsive GENes for activity inference from gene expression [Internet] [cited 
-2023 Apr 25]. Available from: https://bioconductor.org/packages/release/bioc/html/progeny.html
+10. progeny: Pathway RespOnsive GENes for activity inference from gene expression [Internet] [cited 2023 Apr 25]. Available from: https://bioconductor.org/packages/release/bioc/html/progeny.html
 11. survival: Survival Analysis [Internet] [cited 2023 Apr 25]. Available from: https://cran.rproject.org/web/packages/survival/index.html
 12. glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models [Internet] [cited 2023 Apr 25]. 
 Available from: https://cran.r-project.org/web/packages/glmnet/index.html
@@ -399,13 +398,11 @@ Chen Z, Zhong X, Wu G, Cai Y, Jia W, Gao P, Zhang H. Secreted protease PRSS35 su
 hepatocellular carcinoma by disabling CXCL2-mediated neutrophil extracellular traps. Nat Commun. 
 2023 Mar 18;14(1):1513. doi: 10.1038/s41467-023-37227-z. PMID: 36934105; PMCID: 
 PMC10024721.
-22. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+22. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 CABS1 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=CABS1
-23. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+23. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 SPDYE4 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=SPDYE4 
@@ -432,8 +429,7 @@ Burlaud-Gaillard J, Frank PG, Chevalier S, Besson P, Roger S. SCN4B acts as a me
 gene preventing hyperactivation of cell migration in breast cancer. Nat Commun. 2016 Dec 
 5;7:13648. doi: 10.1038/ncomms13648. PMID: 27917859; PMCID: PMC5150224.
 30. Dobashi S, Katagiri T, Hirota E, Ashida S, Daigo Y, Shuin T, Fujioka T, Miki T, Nakamura Y. 
-Involvement of TMEM22 overexpression in the growth of renal cell carcinoma cells. Oncol Rep. 
-2009 Feb;21(2):305-12. PMID: 19148500.
+Involvement of TMEM22 overexpression in the growth of renal cell carcinoma cells. Oncol Rep. 2009 Feb;21(2):305-12. PMID: 19148500.
 31. Livingstone C. IGF2 and cancer. Endocr Relat Cancer. 2013 Oct 24;20(6):R321-39. doi: 10.1530/ERC13-0231. PMID: 24080445.
 32. Lin L, Li H, Shi D, Liu Z, Wei Y, Wang W, Wu D, Li B, Guo Q. Depletion of C12orf48 inhibits gastric 
 cancer growth and metastasis via up-regulating Poly r(C)-Binding Protein (PCBP) 1. BMC Cancer. 
@@ -442,14 +438,12 @@ cancer growth and metastasis via up-regulating Poly r(C)-Binding Protein (PCBP) 
 Hepatocellular Carcinoma Therapy. Cancers (Basel). 2022 Aug 5;14(15):3806. doi: 
 10.3390/cancers14153806. PMID: 35954469; PMCID: PMC9367559.
 34. Dong H, Claffey KP, Brocke S, Epstein PM. Expression of phosphodiesterase 6 (PDE6) in human 
-breast cancer cells. Springerplus. 2013 Dec 18;2:680. doi: 10.1186/2193-1801-2-680. PMID: 
-24683528; PMCID: PMC3967736.
+breast cancer cells. Springerplus. 2013 Dec 18;2:680. doi: 10.1186/2193-1801-2-680. PMID: 24683528; PMCID: PMC3967736.
 35. Lu F, Zhou Q, Liu L, Zeng G, Ci W, Liu W, Zhang G, Zhang Z, Wang P, Zhang A, Gao Y, Yu L, He Q, Chen 
 L. A tumor suppressor enhancing module orchestrated by GATA4 denotes a therapeutic 
 opportunity for GATA4 deficient HCC patients. Theranostics. 2020 Jan 1;10(2):484-497. doi: 
 10.7150/thno.38060. PMID: 31903133; PMCID: PMC6929984.
-36. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+36. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 C11orf65 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=C11orf65
@@ -458,8 +452,7 @@ C11orf65 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.geneca
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 BBS5 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=BBS5
-38. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+38. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 ZFP2 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=ZFP2
