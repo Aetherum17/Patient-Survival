@@ -406,8 +406,7 @@ CABS1 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 SPDYE4 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=SPDYE4 
-24. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+24. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 CIB4 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=CIB4
@@ -426,8 +425,7 @@ Natl Acad Sci U S A. 2013 Oct 22;110(43):17480-5. doi: 10.1073/pnas.1312022110. 
 7. PMID: 24101467; PMCID: PMC3808599.
 29. Bon E, Driffort V, Gradek F, Martinez-Caceres C, Anchelin M, Pelegrin P, Cayuela ML, MarionneauLambot S, Oullier T, Guibon R, Fromont G, Gutierrez-Pajares JL, Domingo I, Piver E, Moreau A, 
 Burlaud-Gaillard J, Frank PG, Chevalier S, Besson P, Roger S. SCN4B acts as a metastasis-suppressor 
-gene preventing hyperactivation of cell migration in breast cancer. Nat Commun. 2016 Dec 
-5;7:13648. doi: 10.1038/ncomms13648. PMID: 27917859; PMCID: PMC5150224.
+gene preventing hyperactivation of cell migration in breast cancer. Nat Commun. 2016 Dec 5;7:13648. doi: 10.1038/ncomms13648. PMID: 27917859; PMCID: PMC5150224.
 30. Dobashi S, Katagiri T, Hirota E, Ashida S, Daigo Y, Shuin T, Fujioka T, Miki T, Nakamura Y. 
 Involvement of TMEM22 overexpression in the growth of renal cell carcinoma cells. Oncol Rep. 2009 Feb;21(2):305-12. PMID: 19148500.
 31. Livingstone C. IGF2 and cancer. Endocr Relat Cancer. 2013 Oct 24;20(6):R321-39. doi: 10.1530/ERC13-0231. PMID: 24080445.
@@ -435,8 +433,7 @@ Involvement of TMEM22 overexpression in the growth of renal cell carcinoma cells
 cancer growth and metastasis via up-regulating Poly r(C)-Binding Protein (PCBP) 1. BMC Cancer. 
 2022 Jan 31;22(1):123. doi: 10.1186/s12885-022-09220-0. PMID: 35100974; PMCID: PMC8802463.
 33. Paturel A, Hall J, Chemin I. Poly(ADP-Ribose) Polymerase Inhibition as a Promising Approach for 
-Hepatocellular Carcinoma Therapy. Cancers (Basel). 2022 Aug 5;14(15):3806. doi: 
-10.3390/cancers14153806. PMID: 35954469; PMCID: PMC9367559.
+Hepatocellular Carcinoma Therapy. Cancers (Basel). 2022 Aug 5;14(15):3806. doi: 10.3390/cancers14153806. PMID: 35954469; PMCID: PMC9367559.
 34. Dong H, Claffey KP, Brocke S, Epstein PM. Expression of phosphodiesterase 6 (PDE6) in human 
 breast cancer cells. Springerplus. 2013 Dec 18;2:680. doi: 10.1186/2193-1801-2-680. PMID: 24683528; PMCID: PMC3967736.
 35. Lu F, Zhou Q, Liu L, Zeng G, Ci W, Liu W, Zhang G, Zhang Z, Wang P, Zhang A, Gao Y, Yu L, He Q, Chen 
@@ -447,8 +444,7 @@ opportunity for GATA4 deficient HCC patients. Theranostics. 2020 Jan 1;10(2):484
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 C11orf65 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=C11orf65
-37. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
-27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+37. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
 Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
 M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
 BBS5 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=BBS5
