@@ -181,6 +181,53 @@ prognosis (Img. 16).
 
 ![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/b32dec59-5fed-4a4c-aade-78a6ed4e4dea)
 
+Finally, CPHRA was performed on genes with their mutations, selected from mutation data based on their 
+relatively high GKM coefficient for lambda, explaining 89.51% of the variance, not too high and not too low 
+Hazard Ratio and not too high p-value with additional criteria of not preventing GLM model from fitting. The 
+result of this analysis is presented in image 17, highlighting the 5’-prime UTR mutation of the PRKACB gene, 
+missense mutation of the DPYD gene, missense mutation of the MUC6 gene, downstream gene mutation of 
+OR5AL1 gene, synonymous mutation of STK39 gene, synonymous mutation of F10 gene, 3’-prime UTR 
+mutation of the BID gene and missense variant of the CNOT4 gene. Built survival curves on image 18 confirm the 
+association of the presence of mutations in PRKACB, MUC6, OR5AL1, STK39, F10, BID and CNOT4 genes 
+with decreased patient survival.
+
+The mRNA expression and methylation levels of those genes were also tested via CPHRA, but as can be 
+seen from image 19, either their Hazard ratio was equal to 1 or the p-value was larger than 0.05, which 
+does not allow to connect those genes to mRNA/methylation data.
+
+Additionally, CPHRA using mutation data was performed on genes, mentioned in HCC literature. Its results 
+are presented in image 20, highlighting three potential mutations – Inframe deletion in the TP53 gene, 
+Stop gained in the TP53 gene, and Stop gained in the ARID2 gene. However, plotted survival curves were 
+only able to confirm the association of the TP53 gene, already found in the analysis of Progeny results (Img. 
+21). 
+
+Performed next CPHRA for the TP53 gene based on mRNA expression data showed no association with 
+patient’s survival, but the results based on methylation data were more promising, as its hazard ratio value 
+was 0.28 with a p-value equal to 0.003 (Img. 22). Survival plot was able to confirm the association of 
+methylation of TP53 gene with HCC survival (Img. 23).
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/b5c5b7dc-098f-4c69-9956-ab3d33950010)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/a83df64f-2ce0-4dc4-9b3a-b1de87c8a5e0)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/a6e3c92f-dc09-4505-9128-dc9482b877e1)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/23684edc-dcae-40ca-8fbd-348649ea671e)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/8026d41c-9f8a-4264-adb6-ecf3ab4cb02a)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/78058ecb-be48-4456-95a9-846feb4672a3)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/3f9996bf-37f4-4f2c-8df4-afb7955ec5cf)
+
+
+
+
+
+
+
+
+
 
 
 
