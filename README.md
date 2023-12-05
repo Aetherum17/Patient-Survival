@@ -1,4 +1,4 @@
-### HCC Survivor Biomarkers
+# HCC Survivor Biomarkers
 
 # Background
 
@@ -146,6 +146,50 @@ mutations can potentially be associated with HCC, as their p-values are less tha
 ![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/fbf91529-0fc6-4e6d-b03d-ee8fd5efe482)
 
 ![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/08716ef0-e522-46d8-9ac2-81f86f0a0733)
+
+Next CPHRA was performed on MAP4K2;MEN1, C12orf48, C11orf65.1, RHOG, CH25H, WAPAL.1, 
+OTOP2;USH1G.1, CCDC19, TRIOBP, APC2, GRB10.1, GATA4.3, GJA4, KCNG1, BBS5.1, MDFI.1, 
+SLC12A4;LCAT.1, CCDC141, SCN4B, TMEM22, PDE6B, NQO1, MS4A3, RDH11.1 and ZFP2 genes, selected 
+from methylation data based on their relatively high GKM coefficient for lambda explaining 83,84% of the 
+variance, not too high and not too low Hazard Ratio and not too high p-value with additional criteria of not 
+preventing GLM model to fit. The result of this CPHRA is presented in image 12, showing MAP4K2-MEN1, 
+C12orf48, C11orf65.1, and WAPAL.1, OTOP2-USH1G.1, APC2, GRB10.1, GATA4.3, GJA4, KCNG1, BBS5.1, 
+SLC12A4-LCAT.1, SCN4B, TMEM22, PDE6B, RDH11.1 and ZFP2 genes are potentially associated with HCC 
+judging by their Hazard Ratio and p-values. To confirm the connection of the methylation of those genes 
+with patients' survival, 17 survival curves were plotted in image 13, showing that increased methylation of 
+MAP4K2-MEN1, GATA4, TMEM22 ZFP2 are associated with better survival, while increased methylation 
+levels of C12orf48, C11orf65.1, BBS5, SCN4B, PDE6B are associated with worse survival. However, neither 
+mRNA expression nor mutations in those genes cannot be connected with HCC survival due to having a p-value greater than 0.05, a Hazard ratio equal to 1 or a Hazard ratio being too extreme (Img. 14).
+
+Genes associated with HCC based on literature data were also assessed using CPHRA based on 
+methylation data. As can be seen in image 15, a number of them, namely RB1, APC.2, RB1.2, 
+“ALG11_ATP7B” and MTOR could potentially be associated with improving or decreasing a patient’s survival. 
+Plotted afterwards, survival curves showed an association of increased methylation levels of the APC gene with 
+worsened survival, while increased methylation levels of the MTOR gene might be associated with better 
+prognosis (Img. 16).
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/89d61c0d-2f09-42c6-8536-412bf0b0998d)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/0736208d-7a2d-4f68-80fa-5358130e07f0)
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/8a0a50b2-7613-4ddc-84f8-ac036c3e384f)
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/c4e278b7-7cad-4908-9873-72538577961e)
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/e76f991a-73cd-4fde-a7ee-ef47429f77e7)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/cb23acb0-2c44-4b71-94c3-9cd9c972c011)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/2b3375a9-2dd5-48dc-b983-2015f96bc4a9)
+
+![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/b32dec59-5fed-4a4c-aade-78a6ed4e4dea)
+
+
+
+
+
+
+
+
+
+
 
 
 
