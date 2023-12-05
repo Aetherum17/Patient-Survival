@@ -220,7 +220,271 @@ methylation of TP53 gene with HCC survival (Img. 23).
 
 ![image](https://github.com/Aetherum17/Patient-Survival/assets/46795020/3f9996bf-37f4-4f2c-8df4-afb7955ec5cf)
 
+# Discussion
 
+The performed dataset analysis has uncovered genes, expression, methylation or mutation which might 
+affect the overall survival of patients with hepatocellular carcinoma. 
+
+Increased expression of Olfactory receptors, to which genes OR5AP2 and OR11H4 belong, was detected in 
+breast carcinoma tissues and cell lines, as well as in pancreatic carcinoma tissues, which allows using of 
+them as potential cancer biomarkers and therapeutic targets.[17, 18] Increased expression of long-chain fatty 
+acyl CoA synthetases, to which gene ACSM4 belong, was observed in hepatocellular carcinoma tissues, 
+compared to the normal liver, giving potential for this gene to be used as a cancer biomarker.[19] Increased 
+expression of the PRDM14 gene, a transcriptional regulator which plays a key role in maintaining 
+pluripotency of embryonic cells, was also observed in cancer stem cells, making this gene a candidate 
+oncogene and a potential therapeutic target.[20] Serine Proteases could also potentially be associated with 
+cancer, as it was shown for secreted pseudo-serine protease PRSS35, which acts as a tumour suppressor.[21]
+However, in the current analysis, increased expression of a similar protease, PRSS37, was associated with 
+poor prognosis. Increased expression of other genes, namely C4orf35, SPDYE4 and CIB4, which respectively 
+code calcium-binding protein[22], Speedy E4 protein[23] and calcium & integrin-binding protein[24], was also 
+associated with poor patient survival, but no association with cancer was found for those genes in other 
+scientific papers, apart from C4orf35 (CABS1) gene, associated with Hereditary Wilms' Tumor.[22]
+
+The performed progeny analysis of signalling pathways, which might be associated with poor survival for 
+patients with hepatocellular carcinoma have highlighted “Hypoxia” and “p53” pathways. Indeed, hypoxia-inducible factors play a key role in the development of HCC, as tumour growth prevents diffusion of oxygen 
+from the blood to cancer cells, thus creating a hypoxic microenvironment to which malignant cells are 
+adapting via the “Hypoxia” pathway, consequently making them a potential target for precise treatment of 
+HCC.25 “p53” pathway also plays an important role in the occurrence of HCC, as genes in this pathway 
+perform a crucial role in preventing normal cells from malignant transformation via control of their cell 
+cycle, apoptosis and metabolism.[26]
+
+In the methylation data a number of genes were also uncovered, increased or decreased methylation 
+levels of which might be associated with better survival of patients with HCC. For instance, despite high 
+expression levels of the MAP4K2 gene, which are associated with a better prognosis for patients with 
+Acute Myeloid Leukemia[27] is suppressed by increased methylation of the MAP4K2 gene, at the same 
+time, it also suppresses the expression of the MEN1 gene, which promotes hepatocellular carcinogenesis.[28]
+Additionally, increased methylation of SCN4B, leading to its suppression, seems to be an important 
+potential biomarker for poor outcomes of HCC disease, as this gene acts as a suppressor of metastasis in 
+breast cancer as it prevents cell migration.[29] Suppression of TMEM22 via its methylation also can be 
+confirmed as a positive factor for patient survival, as it was shown that overexpression of this gene is 
+associated with the growth of renal cell carcinoma cells, and TMEM22 could be a potential therapeutic 
+target for this type of cancer.[30] Methylation of INS and IGF2 genes, found as the result of progeny analysis, 
+was also checked in literature for the association with cancer, and despite having no significant result for 
+the insulin gene, overexpression of the IGF2 gene was observed in many cancers, and it is associated with 
+poor patient survival. So, indeed, suppression of the IGF2 gene via its methylation can be associated with 
+better outcomes.[31]
+
+However, contradicting results to the published data were also obtained. For example, the C12orf48 gene, 
+encoding a PARP1 binding protein, is overexpressed in several cancers, including gastric one, and is said to 
+be a potential target for poly(ADP-Ribose) polymerase inhibitors, but in current results, its suppression via 
+methylation is associated with poor prognosis.[32, 33] Another contradicting result comes for the PDE6 gene, 
+which is expressed in breast cancer tissues but not in normal tissues with only the exception of 
+photoreceptors, thus potentially playing a role in breast cancer development, but in current data, its 
+suppression via methylation is associated with reduced patient survival.[34] The last contradicting result is 
+associated with the GATA4 gene, which has been shown to suppress the development of Hepatocellular Carcinoma cells 
+by organising the assembly of a tumour suppressor enhancing module, which inhibits β-catenin 
+transcription, but in current data, the suppression of GATA4 via its methylation is associated with a better 
+prognosis.[35] 
+
+Methylation of a couple of genes, such as C11orf65, a mitochondrial fission factor 
+interaction[36], BBS5, a Bardet-Biedl Syndrome 5 Protein[37] and ZFP2, a Zinc Finger Protein38, was also 
+associated with the patient's survival. Suppression of C11orf65 and BBS5 via their methylation was linked 
+to poor prognosis, while suppression of the ZFP2 gene was associated with a better prognosis. However, any connections between those genes with cancer in the literature apart from 
+C11orf65, associated with Mantle Cell Lymphoma[36] were found.
+
+Additionally, methylation of TP53 and WRAP53 gene, an increase of which is associated with better patient 
+survival was also checked in literature sources, and it looks like such an effect, despite the suppression of 
+TP53, a tumour-suppressor protein, can be explained by the suppression of the WRAP53 gene, whose function is 
+important for telomerase localization and overexpression, which is considered a potential biomarker 
+for various cancer types.[39]
+
+Next, the methylation of APC and MTOR genes, known to be associated with the development of 
+Hepatocellular carcinoma was also attempted to be confirmed in the literature. Suppression of MTOR via 
+its methylation was indeed confirmed to be associated with better patient survivors, as the mTOR pathway 
+was shown to be upregulated in HCC tissues.[40] However, the obtained results for the APC gene, telling that 
+its suppression via methylation was associated with a worse prognosis did not find confirmation in the 
+literature, as methylation of this gene increased in normal tissues and decreased in HCC tissues.[41]
+
+Finally, several genes associated with the overall survival of patients with hepatocellular carcinoma were 
+identified in mutation data. To note, there were no mutations detected, that would increase the patient's 
+lifespan. Thus, missense mutation of the OR11H4 gene, 5’-prime UTR mutation of the PRKACB gene, 
+missense mutation of the MUC6 gene, downstream gene mutation of OR5AL1 gene, synonymous mutation 
+of STK39 gene, synonymous mutation of F10 gene, 3’-prime UTR mutation of BID gene, missense variant of 
+CNOT4 genes were all associated with reduced patient survival. However, it is hard to speculate about the 
+consequence of those mutations and how, in reality, they would affect the lifespan of other patients due to 
+the extremely low number of those mutation counts in samples, which can also be seen on survival plots, 
+having very steep survival curves with a handful of points on the graph. Additionally, not only mutations of 
+genes, but their polymorphisms also play an important role in the development of hepatocellular 
+carcinoma, as was shown for the MUC6 gene.42 Indeed, hepatocellular carcinoma is known for its wide 
+mutation spectrum, making it even more difficult to find a cure for this disease.[26]
+
+However, if we still would like to confirm the effect of discovered mutations, for example, for Genes, 
+discovered from Progeny Analysis, like missense mutation of HIF1A, splice donor variant of PTEN gene, 
+Inframe deletion of TP53 gene, stop gained mutation of TP53 gene or missense variant of EI24 gene, we 
+could still do this for PTEN and TP53 genes, as the first one is frequently mutated or even deleted in various 
+tumours[43], and mutations in the second one are just the most common mutations in HCC that affect its 
+progression, prognosis, and result in the reduced immune response to malignant cells, which consequently 
+negatively influences the survival of patients with this disease[44].
+
+Additionally, during the performed analysis, separate tests were conducted to determine if mRNA 
+expression, methylation or mutations of TERT, CTNNB1, AXIN1, APC, P53, RB1, CCNA2, CCNE1, PTEN, 
+ARID1A, ARID2, RPS6KA3, NFE2L2, CCND1, FGF19, VEGFA, MYC, MET, HFE, SERPINA1, G6PC, SLC37A4, 
+HMBS, UROD, FAH, ATP7B, GPC3, SPP1, GOLM1, EGF, PDGFB, IGF1, and MTOR genes, mentioned in the 
+literature in association with HCC[1,2,3], is important for patient survival. This might be true only for 
+methylation of APC and MTOR genes, and mutations of TP53, discussed earlier. To note, the same TP53 
+mutations were also obtained from the results of progeny analysis, which could add additional validity to 
+those findings.
+
+# Conclusion
+
+As a result of this work, several features from mRNA expression, methylation and mutation data were 
+uncovered that might influence the overall survival of patients with Hepatocellular carcinoma. Most of 
+those features were already mentioned in the literature in association with HCC, which supports their 
+finding. Unfortunately, results for some of the obtained features contradict already known data 
+about them, but this potentially could be caused by limitations of the data set analyzed – its small patient 
+size, disregard for the molecular subtypes of the disease and missing data for some of the patients.
+
+# References: 
+
+1. Llovet, J.M., Kelley, R.K., Villanueva, A. et al. Hepatocellular carcinoma. Nat Rev Dis Primers 7, 6 
+(2021). https://doi.org/10.1038/s41572-020-00240-3
+2. Tunissiolli NM, Castanhole-Nunes MMU, Biselli-Chicote PM, Pavarino EC, da Silva RF, da Silva RC, 
+Goloni-Bertollo EM. Hepatocellular Carcinoma: a Comprehensive Review of Biomarkers, Clinical 
+Aspects, and Therapy. Asian Pac J Cancer Prev. 2017 Apr 1;18(4):863-872. doi: 
+10.22034/APJCP.2017.18.4.863. PMID: 28545181; PMCID: PMC5494234.
+3. N. Méndez-Sánchez, A. Valencia-Rodríguez, C. Coronel-Castillo, X. Qi. Narrative review of 
+hepatocellular carcinoma: from molecular bases to therapeutic approach. Digestive Medicine 
+Research. 2021;4:15 doi: http://dx.doi.org/10.21037/dmr-20-116
+4. Cerami E, Gao J, Dogrusoz U, Gross BE, Sumer SO, Aksoy BA, Jacobsen A, Byrne CJ, Heuer ML, 
+Larsson E, Antipin Y, Reva B, Goldberg AP, Sander C, Schultz N. The cBio cancer genomics portal: an 
+open platform for exploring multidimensional cancer genomics data. Cancer Discov. 2012 
+May;2(5):401-4. doi: 10.1158/2159-8290.CD-12-0095. Erratum in: Cancer Discov. 2012 
+Oct;2(10):960. PMID: 22588877; PMCID: PMC3956037. Gao J, Aksoy BA, Dogrusoz U, Dresdner G, 
+Gross B, Sumer SO, Sun Y, Jacobsen A, Sinha R, Larsson E, Cerami E, Sander C, Schultz N. Integrative 
+analysis of complex cancer genomics and clinical profiles using the cBioPortal. Sci Signal. 2013 Apr 
+2;6(269):pl1. doi: 10.1126/scisignal.2004088. PMID: 23550210; PMCID: PMC4160307. [Internet] 
+cBioPortal Dataset “Liver Hepatocellular Carcinoma (TCGA, PanCancer Atlas)”, [cited 2023 Jun 15]. 
+Available from: https://www.cbioportal.org/study/summary?id=lihc_tcga_pan_can_atlas_2018
+5. R: A Language and Environment for Statistical Computing. [Internet] [cited 2023 Apr 25]. Available 
+from: https://www.R-project.org
+6. Posit. RStudio. [Internet] [cited 2023 Apr 25]. Available from: https://posit.co/download/rstudiodesktop/
+7. rstudioapi: Safely Access the RStudio API [Internet] [cited 2023 Apr 25]. Available from:
+https://cran.r-project.org/web/packages/rstudioapi/index.html
+8. stringr: Simple, Consistent Wrappers for Common String Operations [Internet] [cited 2023 Apr 25]. 
+Available from: https://cran.r-project.org/web/packages/stringr/index.html
+9. dplyr: A Grammar of Data Manipulation [Internet] [cited 2023 Apr 25]. Available from: 
+https://cran.r-project.org/web/packages/dplyr/index.html
+10. progeny: Pathway RespOnsive GENes for activity inference from gene expression [Internet] [cited 
+2023 Apr 25]. Available from: https://bioconductor.org/packages/release/bioc/html/progeny.html
+11. survival: Survival Analysis [Internet] [cited 2023 Apr 25]. Available from: https://cran.rproject.org/web/packages/survival/index.html
+12. glmnet: Lasso and Elastic-Net Regularized Generalized Linear Models [Internet] [cited 2023 Apr 25]. 
+Available from: https://cran.r-project.org/web/packages/glmnet/index.html
+13. tidyverse: Easily Install and Load the 'Tidyverse' [cited 2023 Apr 25]. Available from: https://cran.rproject.org/web/packages/tidyverse/index.html
+14. survminer: Drawing Survival Curves using 'ggplot2' [cited 2023 Apr 25]. Available from:
+https://cran.r-project.org/web/packages/survminer/index.html
+15. Guo Y, Xiao Z, Yang L, Gao Y, Zhu Q, Hu L, Huang D, Xu Q. Hypoxia‑inducible factors in 
+hepatocellular carcinoma (Review). Oncol Rep. 2020 Jan;43(1):3-15. doi: 10.3892/or.2019.7397. 
+Epub 2019 Nov 1. PMID: 31746396; PMCID: PMC6908932.
+16. Kanehisa, M. and Goto, S.; KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 28, 
+27-30 (2000). Kanehisa, M; Toward understanding the origin and evolution of cellular organisms. 
+Protein Sci. 28, 1947-1951 (2019) Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M. and 
+Ishiguro-Watanabe, M.; KEGG for taxonomy-based analysis of pathways and genomes. Nucleic 
+Acids Res. 51, D587-D592 (2023). p53 signaling pathway - Homo sapiens (human) [cited 2023 Apr 
+25]. Available from: https://www.genome.jp/pathway/hsa04115
+17. Weber Lea, Maßberg Désirée, Becker Christian, Altmüller Janine, Ubrig Burkhard, Bonatz Gabriele, 
+Wölk Gerhard, Philippou Stathis, Tannapfel Andrea, Hatt Hanns, Gisselmann Günter. Olfactory 
+Receptors as Biomarkers in Human Breast Carcinoma Tissues. Frontiers in Oncology. 2018; vol. 8. 
+doi: 10.3389/fonc.2018.00033
+18. Chung C, Cho HJ, Lee C, Koo J. Odorant receptors in cancer. BMB Rep. 2022 Feb;55(2):72-80. doi: 
+10.5483/BMBRep.2022.55.2.010. PMID: 35168702; PMCID: PMC8891625.
+19. Ndiaye H, Liu JY, Hall A, Minogue S, Morgan MY, Waugh MG. Immunohistochemical staining reveals 
+differential expression of ACSL3 and ACSL4 in hepatocellular carcinoma and hepatic gastrointestinal 
+metastases. Biosci Rep. 2020 Apr 30;40(4):BSR20200219. doi: 10.1042/BSR20200219. PMID: 
+32286604; PMCID: PMC7198044.
+20. Tracey LJ, Justice MJ. Off to a Bad Start: Cancer Initiation by Pluripotency Regulator PRDM14. 
+Trends Genet. 2019 Jul;35(7):489-500. doi: 10.1016/j.tig.2019.04.004. Epub 2019 May 23. PMID: 
+31130394; PMCID: PMC6760870.
+21. Wang T, Zhou Y, Zhou Z, Zhang P, Yan R, Sun L, Ma W, Zhang T, Shen S, Liu H, Lu H, Ye L, Feng J, 
+Chen Z, Zhong X, Wu G, Cai Y, Jia W, Gao P, Zhang H. Secreted protease PRSS35 suppresses 
+hepatocellular carcinoma by disabling CXCL2-mediated neutrophil extracellular traps. Nat Commun. 
+2023 Mar 18;14(1):1513. doi: 10.1038/s41467-023-37227-z. PMID: 36934105; PMCID: 
+PMC10024721.
+22. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+CABS1 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=CABS1
+23. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+SPDYE4 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=SPDYE4 
+24. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+CIB4 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=CIB4
+25. Guo Y, Xiao Z, Yang L, Gao Y, Zhu Q, Hu L, Huang D, Xu Q. Hypoxia‑inducible factors in 
+hepatocellular carcinoma (Review). Oncol Rep. 2020 Jan;43(1):3-15. doi: 10.3892/or.2019.7397. 
+Epub 2019 Nov 1. PMID: 31746396; PMCID: PMC6908932.
+26. Link T, Iwakuma T. Roles of p53 in extrinsic factor-induced liver carcinogenesis. Hepatoma Res. 
+2017;3:95-104. doi: 10.20517/2394-5079.2017.07. Epub 2017 Jun 6. PMID: 30123836; PMCID: 
+PMC6097626.
+27. Bai Z, Yao Q, Sun Z, Xu F, Zhou J. Prognostic Value of mRNA Expression of MAP4K Family in Acute 
+Myeloid Leukemia. Technol Cancer Res Treat. 2019 Jan 1;18:1533033819873927. doi: 
+10.1177/1533033819873927. PMID: 31522654; PMCID: PMC6747867.
+28. Xu B, Li SH, Zheng R, Gao SB, Ding LH, Yin ZY, Lin X, Feng ZJ, Zhang S, Wang XM, Jin GH. Menin 
+promotes hepatocellular carcinogenesis and epigenetically up-regulates Yap1 transcription. Proc 
+Natl Acad Sci U S A. 2013 Oct 22;110(43):17480-5. doi: 10.1073/pnas.1312022110. Epub 2013 Oct 
+7. PMID: 24101467; PMCID: PMC3808599.
+29. Bon E, Driffort V, Gradek F, Martinez-Caceres C, Anchelin M, Pelegrin P, Cayuela ML, MarionneauLambot S, Oullier T, Guibon R, Fromont G, Gutierrez-Pajares JL, Domingo I, Piver E, Moreau A, 
+Burlaud-Gaillard J, Frank PG, Chevalier S, Besson P, Roger S. SCN4B acts as a metastasis-suppressor 
+gene preventing hyperactivation of cell migration in breast cancer. Nat Commun. 2016 Dec 
+5;7:13648. doi: 10.1038/ncomms13648. PMID: 27917859; PMCID: PMC5150224.
+30. Dobashi S, Katagiri T, Hirota E, Ashida S, Daigo Y, Shuin T, Fujioka T, Miki T, Nakamura Y. 
+Involvement of TMEM22 overexpression in the growth of renal cell carcinoma cells. Oncol Rep. 
+2009 Feb;21(2):305-12. PMID: 19148500.
+31. Livingstone C. IGF2 and cancer. Endocr Relat Cancer. 2013 Oct 24;20(6):R321-39. doi: 10.1530/ERC13-0231. PMID: 24080445.
+32. Lin L, Li H, Shi D, Liu Z, Wei Y, Wang W, Wu D, Li B, Guo Q. Depletion of C12orf48 inhibits gastric 
+cancer growth and metastasis via up-regulating Poly r(C)-Binding Protein (PCBP) 1. BMC Cancer. 
+2022 Jan 31;22(1):123. doi: 10.1186/s12885-022-09220-0. PMID: 35100974; PMCID: PMC8802463.
+33. Paturel A, Hall J, Chemin I. Poly(ADP-Ribose) Polymerase Inhibition as a Promising Approach for 
+Hepatocellular Carcinoma Therapy. Cancers (Basel). 2022 Aug 5;14(15):3806. doi: 
+10.3390/cancers14153806. PMID: 35954469; PMCID: PMC9367559.
+34. Dong H, Claffey KP, Brocke S, Epstein PM. Expression of phosphodiesterase 6 (PDE6) in human 
+breast cancer cells. Springerplus. 2013 Dec 18;2:680. doi: 10.1186/2193-1801-2-680. PMID: 
+24683528; PMCID: PMC3967736.
+35. Lu F, Zhou Q, Liu L, Zeng G, Ci W, Liu W, Zhang G, Zhang Z, Wang P, Zhang A, Gao Y, Yu L, He Q, Chen 
+L. A tumor suppressor enhancing module orchestrated by GATA4 denotes a therapeutic 
+opportunity for GATA4 deficient HCC patients. Theranostics. 2020 Jan 1;10(2):484-497. doi: 
+10.7150/thno.38060. PMID: 31903133; PMCID: PMC6929984.
+36. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+C11orf65 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=C11orf65
+37. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+BBS5 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=BBS5
+38. The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses (PMID: 
+27322403) Stelzer G, Rosen R, Plaschkes I, Zimmerman S, Twik M, Fishilevich S, Iny Stein T, Nudel R, 
+Lieder I, Mazor Y, Kaplan S, Dahary, D, Warshawsky D, Guan - Golan Y, Kohn A, Rappaport N, Safran 
+M, and Lancet D Current Protocols in Bioinformatics(2016), 54:1.30.1 - 1.30.33.doi: 10.1002 / cpbi.5 
+ZFP2 Gene [Internet] [cited 2023 Jun 19]. Available from: https://www.genecards.org/cgibin/carddisp.pl?gene=ZFP2
+39. Gadelha, R.B.; Machado, C.B.; Pessoa, F.M.C.d.P.; Pantoja, L.d.C.; Barreto, I.V.; Ribeiro, R.M.; de 
+Moraes Filho, M.O.; de Moraes, M.E.A.; Khayat, A.S.; Moreira-Nunes, C.A. The Role of WRAP53 in 
+Cell Homeostasis and Carcinogenesis Onset. Curr. Issues Mol. Biol. 2022, 44, 5498-5515. 
+https://doi.org/10.3390/cimb44110372
+40. Ferrín G, Guerrero M, Amado V, Rodríguez-Perálvarez M, De la Mata M. Activation of mTOR 
+Signaling Pathway in Hepatocellular Carcinoma. Int J Mol Sci. 2020 Feb 13;21(4):1266. doi: 
+10.3390/ijms21041266. PMID: 32070029; PMCID: PMC7072933.
+41. Csepregi A, Röcken C, Hoffmann J, Gu P, Saliger S, Müller O, Schneider-Stock R, Kutzner N, Roessner 
+A, Malfertheiner P, Ebert MP. APC promoter methylation and protein expression in hepatocellular 
+carcinoma. J Cancer Res Clin Oncol. 2008 May;134(5):579-89. doi: 10.1007/s00432-007-0321-y. 
+Epub 2007 Nov 1. PMID: 17973119; PMCID: PMC2757596.
+42. Lee HL, Chien YC, Wang HL, Hua CH, Liu LC, Wu GW, Bai LY, Yang SF, Yu YL. Analysis of MUC6 
+Genetic Variants on the Clinicopathologic Characteristics of Patients with Hepatocellular Carcinoma. 
+J Cancer. 2022 Sep 6;13(11):3251-3257. doi: 10.7150/jca.75754. PMID: 36118520; PMCID: 
+PMC9475359.
+43. Shearn CT, Petersen DR. Understanding the tumor suppressor PTEN in chronic alcoholism and 
+hepatocellular carcinoma. Adv Exp Med Biol. 2015;815:173-84. doi: 10.1007/978-3-319-09614-
+8_10. PMID: 25427907.
+44. Long J, Wang A, Bai Y, Lin J, Yang X, Wang D, Yang X, Jiang Y, Zhao H. Development and validation of 
+a TP53-associated immune prognostic model for hepatocellular carcinoma. EBioMedicine. 2019 
+Apr;42:363-374. doi: 10.1016/j.ebiom.2019.03.022. Epub 2019 Mar 16. PMID: 30885723; PMCID: 
+PMC6491941.
 
 
 
